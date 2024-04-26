@@ -1,0 +1,14 @@
+img_publisher:
+  ros__parameters:
+    width: 640
+    length: 480
+
+aruco_front:
+  ros__parameters:
+    camera_topic: "/camera"
+    thrs1: 127
+    calib_data_path: "/home/kkyu/project_study/src/ar_tutorial/ar_tutorial/ros_aruco/4. calib_data/MultiMatrix.npz"
+    marker_dict_type: "DICT_5X5_250"
+    marker_size: 6  
+    camera_height: 1.0 
+    
