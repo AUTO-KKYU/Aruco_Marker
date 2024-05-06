@@ -91,6 +91,6 @@ https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/a435d5ce-7c57-42f6-ae
 
 https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/133c5004-98be-43ea-9e82-a0066c0fe527
 
-3) KalmanFilter + PID Control
+2) KalmanFilter + PID Control
 
 https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/da199a32-e514-4335-9926-6d91cf50041b
