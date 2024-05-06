@@ -75,3 +75,22 @@ https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/86d2d26a-9403-4fc3-ad
 <img src= "https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/48d55067-e407-4849-859e-ee3ede4cfa4c">
 
 https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/a435d5ce-7c57-42f6-aec4-5ca23147caaa
+
+## ArUco Marker Detection in Gazebo Simulator 
+
+**"Gazebo 시뮬레이터 내에서 ArUco 마커를 탐지하고, 로봇의 위치와 방향을 제어하기 위해 칼만 필터와 PID 제어 적용"**
+
+-  Detect ArUco Marker
+    - Gazebo 시뮬레이터에서 로봇에 장착된 카메라를 통해 ArUco 마커를 실시간으로 탐지
+- Kalman Filter
+    - ArUco 마커의 위치 데이터에 칼만 필터를 적용하여 노이즈를 줄이고, 더 정확하고 안정적인 위치 추정하기 위해 사용
+- PID Control
+    - 탐지된 마커의 위치에 따라 로봇의 선형 및 각속도를 조절하기 위해 PID 제어기를 사용
+ 
+1) KalmanFilter
+
+https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/133c5004-98be-43ea-9e82-a0066c0fe527
+
+3) KalmanFilter + PID Control
+
+https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/da199a32-e514-4335-9926-6d91cf50041b
