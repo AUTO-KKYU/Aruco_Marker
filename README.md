@@ -94,3 +94,9 @@ https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/133c5004-98be-43ea-9e
 2) KalmanFilter + PID Control
 
 https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/da199a32-e514-4335-9926-6d91cf50041b
+
+
+3) Detailed Navigation Using ArUco Markers to Insert Fork Arms into a Pallet
+   
+https://github.com/AUTO-KKYU/Aruco_Marker/assets/118419026/41e94f71-c7b2-411a-875b-e734e8fbab30
+
